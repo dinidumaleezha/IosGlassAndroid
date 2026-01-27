@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="IosGlassLayout">
+        <attr name="glassBlurRadius" format="float" />
+        <attr name="glassVibrancy" format="boolean" />
+        <attr name="glassSaturation" format="float" />
+        <attr name="glassBrightnessLift" format="float" />
+        <attr name="glassAutoUpdate" format="boolean" />
+    </declare-styleable>
+</resources>

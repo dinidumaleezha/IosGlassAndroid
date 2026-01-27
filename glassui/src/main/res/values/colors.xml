@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="glass_bg">#33FFFFFF</color>
+    <color name="glass_border">#3DFFFFFF</color>
+
+    <color name="glass_grad_start">#66FFFFFF</color>
+    <color name="glass_grad_center">#22FFFFFF</color>
+    <color name="glass_grad_end">#0AFFFFFF</color>
+
+    <color name="glass_gloss_start">#45FFFFFF</color>
+
+    <color name="glass_text">#FFFFFF</color>
+    <color name="glass_text_secondary">#CCFFFFFF</color>
+</resources>

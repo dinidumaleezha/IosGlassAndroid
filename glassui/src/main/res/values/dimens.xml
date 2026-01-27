@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    <dimen name="glass_radius">26dp</dimen> 26dp-->
+    <dimen name="glass_radius">0dp</dimen>
+</resources>
