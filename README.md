@@ -54,7 +54,7 @@ dependencies {
 ## 🚀 Usage (XML Only)
 
 ```xml
-<com.profit.glassui.IosGlassLayout
+<com.dinidu.glassui.IosGlassLayout
     android:layout_width="match_parent"
     android:layout_height="180dp"
     android:padding="18dp"
