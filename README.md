@@ -45,7 +45,7 @@ dependencyResolutionManagement {
 **app/build.gradle**
 ```gradle
 dependencies {
-    implementation "com.github.dinidumaleezha:IosGlassAndroid:v1.0.0"
+    implementation "com.github.dinidumaleezha:IosGlassAndroid:v1.1.1"
 }
 ```
 
